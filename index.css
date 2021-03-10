@@ -1,0 +1,9 @@
+div,button {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 70px;
+    padding: 5px;
+    margin: 25%;
+    text-align: center;
+}
